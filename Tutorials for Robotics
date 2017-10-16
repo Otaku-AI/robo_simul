@@ -1,16 +1,45 @@
 Tutorial Topics for Robotics Simulations
 
-1. AI from a Robotic Agent Perspective
+I. AI from a Robotic Agent Perspective
 	A. Classic and Adversarial Search
+		1. DFS and BFS
+		2. UCS and A*
 	B. MDPs and Reinforcement Learning
+		1. How to formulate MDPs and POMDPs
+		2. Dynamic Programming
+		3. Value and Policy Iteration
+		4. Reinforcement Learning
+			1. Q Learning  
+			2. TD Learning
+			3. Actor-Critic Methods
+			4. Inverse Reinforcement Learning
+		5. Game Theory
 	C. Supervised and Unsupervised Learning
+		1. Regression
+		2. Classification
+		3. Neural Networks
+		4. SVMs and Kernel Methods
+		5. Probabilistic Graphical Models
+		6. Sequential Data and Hidden Markov Models
 	D. Localization and Mapping
-	E. Computer Vision from an AI perspective
+		1. SLAM 
+		2. Particle and Kalman Filters
+	E. Computer Vision from a Robotics perspective
+		1. Preprocessing 
+		2. Saliency
+		3. Feature Descriptors
+		3. CNNs
+	F. Optimization Techniques
+		1. Monte Carlo Techniques
+		2. Genetic and Evolutionary Algorithms
+		3. Gradient Descent
+		4. Particle Swarms
+	G. Bayesian Methods and Probability Theory
 
-2. Unreal Engine
+II. Unreal Engine
 	A. Blueprints 
 	B. C++ API
 	C. Physics
 
-3. 3D modeling
+III. 3D modeling
   A. Blender/Maya/3DS Max
